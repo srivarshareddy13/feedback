@@ -1,0 +1,13 @@
+/* Write your CSS code here. */
+.app-container {
+  display: flex;
+}
+.container {
+  display: flex;
+}
+.card {
+    display: flex;
+}
+.love-card{
+    display: flex;
+}
